@@ -1,6 +1,6 @@
 # AI for Chemical Engineers
 
-## 1. Overview of the Course and Repo
+## Overview of the Course and Repo
 <!--
 Chemical industries are rapidly transitioning toward intelligent manufacturing and innovation with AI as the central enabling technology. It is essential for all chemical engineering students to understand what AI is, how it works, where it can be applied, and what its limitations and potential pitfalls are. While AI/ML courses for chemical engineering are emerging nationwide, most target students interested in computational research careers.
 -->
@@ -11,7 +11,7 @@ The course is structured to help students develop fundamental abilities to under
 
 *For full details regarding course objectives, recommended textbooks, homework, and final projects, please refer to the [syllabus]() available in this repository.*
 
-## 2. Course Schedule
+## Course Schedule
 
 | # | Week | Topic |
 |---|---|---|
@@ -46,7 +46,7 @@ The course is structured to help students develop fundamental abilities to under
 | 25 | 15 | Final project presentation |
 | 26 | | Final project presentation |
 
-## 3. Acknowledgement
+## Acknowledgement
 
 This course significantly benefits from the open-source community AI/ML resources. We also thank all guest lecturers for this course from academia and industry:
 *   Prof. Jiayu Peng (MDI, UB)
