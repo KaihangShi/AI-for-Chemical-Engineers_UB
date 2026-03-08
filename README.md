@@ -54,3 +54,10 @@ This course significantly benefits from the open-source community AI/ML resource
 *   Dr. Bea Braun (Dow Chemical)
 *   Dr. Alix Schmidt (Dow Chemical)
 *   Dr. Matt Barker (P&G)
+
+## License
+
+Except as otherwise noted:
+
+- All course materials (slides, text, and figures) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- Source code in this repository is licensed under the Apache License 2.0.
