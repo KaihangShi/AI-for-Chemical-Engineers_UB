@@ -1,4 +1,4 @@
-# AI for Chemical Engineers
+# AI for Chemical Engineers Course
 
 ## Overview of the Course and Repo
 <!--
