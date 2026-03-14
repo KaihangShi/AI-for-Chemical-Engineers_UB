@@ -5,13 +5,23 @@
 Chemical industries are rapidly transitioning toward intelligent manufacturing and innovation with AI as the central enabling technology. It is essential for all chemical engineering students to understand what AI is, how it works, where it can be applied, and what its limitations and potential pitfalls are. While AI/ML courses for chemical engineering are emerging nationwide, most target students interested in computational research careers.
 -->
 
-This repo contains course materials for "AI for Chemical Engineers", an AI/ML literacy, elective course that was designed to be accessible and appealing to all junior and senior ChemE undergraduate and graduate students. The course was first taught in Fall 2025 in the [Department of Chemical & Biological Engineering at the University at Buffalo](https://engineering.buffalo.edu/chemical-biological.html) and received exceptional feedback from both undergraduate and graduate attendees. 
+**This repo contains course materials for "AI for Chemical Engineers", an AI/ML literacy, elective course that was designed to be accessible and appealing to all junior and senior ChemE undergraduate and graduate students.** The course was first taught in Fall 2025 in the [Department of Chemical & Biological Engineering at the University at Buffalo](https://engineering.buffalo.edu/chemical-biological.html) and received exceptional feedback from both undergraduate and graduate attendees. 
 
-The course is structured to help students develop fundamental abilities to understand, critically evaluate, and interact with AI/ML systems. The course covers a comprehensive spectrum of AI/ML concepts: AI-assisted programming, predictive modeling (e.g., regression and classification), prescriptive algorithms (e.g., genetic algorithm), and generative AI (e.g., transformer), emphasizing breadth over depth. The latest foundational generative AI technologies, such as large language models (LLMs; e.g., Gemini), are seamlessly integrated throughout the course to assist students with learning tasks. Narrative lectures on AI/ML algorithms are accompanied by highly interactive hands-on demonstrations in the context of chemical science and engineering. This course also features guest lectures from leading chemical companies. The course also touches on topics of AI ethics, safety, and limitations in academic and industrial settings. By the end of this course, you will develop the ability to tackle complex (chemical) engineering challenges that exceed your current knowledge and coding skills by leveraging AI technology. 
+Some highlights of this course:
+- Structured to help ChemE students develop fundamental abilities to understand, critically evaluate, and interact with AI/ML systems. 
+- Covers a comprehensive spectrum of AI/ML concepts: AI-assisted programming, predictive modeling (e.g., regression and classification), prescriptive algorithms (e.g., genetic algorithm), and generative AI (e.g., transformer), emphasizing breadth over depth. 
+- Narrative lectures on AI/ML algorithms are accompanied by highly interactive hands-on demonstrations in the context of chemical science and engineering. 
+- Seamlessly integrated latest foundational generative AI technologies, such as large language models (LLMs; e.g., Gemini), throughout the course to assist students with learning tasks. 
+- Features guest lectures from leading scientists and engineers in both academia and industry (see [past guest speakers](#acknowledgement)). 
+- Touches on topics like AI ethics, safety, and limitations in academic and industrial settings. 
 
-*For full details regarding course objectives, recommended textbooks, homework, and final projects, please refer to the [syllabus]() available in this repository.*
+Repo structure:
+- `Hands-on-tutorials`: Interactive tutorials in Python Jupyter notebook in the context of chemical engineering.
+- `Lecture-slides`: PDF copies of lecture slides 
 
 ## Course Schedule
+
+For full details regarding course objectives, recommended textbooks, homework, and final projects, please refer to the [syllabus](/CE400-500_syllabus_Fall2025.pdf).
 
 | # | Week | Topic |
 |---|---|---|
@@ -48,12 +58,12 @@ The course is structured to help students develop fundamental abilities to under
 
 ## Acknowledgement
 
-This course significantly benefits from the open-source community AI/ML resources. We also thank all guest lecturers for this course from academia and industry:
-*   Prof. Jiayu Peng (MDI, UB)
-*   Prof. Rudiyanto Gunawan (CBE, UB)
-*   Dr. Bea Braun (Dow Chemical)
-*   Dr. Alix Schmidt (Dow Chemical)
-*   Dr. Matt Barker (P&G)
+This course significantly benefits from the open-source AI/ML materials shared across the community. We also thank all guest lecturers for this course from academia and industry:
+*   Prof. Jiayu Peng (MDI, UB, Fall 2025)
+*   Prof. Rudiyanto Gunawan (CBE, UB, Fall 2025)
+*   Dr. Bea Braun (Dow Chemical, Fall 2025)
+*   Dr. Alix Schmidt (Dow Chemical, Fall 2025)
+*   Dr. Matt Barker (P&G, Fall 2025)
 
 ## License
 
