@@ -58,7 +58,7 @@ For full details regarding course objectives, recommended textbooks, homework, a
 
 ## Acknowledgement
 
-This course significantly benefits from the open-source AI/ML materials shared across the community. We also thank all guest lecturers for this course from academia and industry:
+This course significantly benefits from the open-source AI/ML materials shared by the community. We also thank all guest lecturers for this course from academia and industry:
 *   Prof. Jiayu Peng (MDI, UB, Fall 2025)
 *   Prof. Rudiyanto Gunawan (CBE, UB, Fall 2025)
 *   Dr. Bea Braun (Dow Chemical, Fall 2025)
