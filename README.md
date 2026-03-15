@@ -56,7 +56,7 @@ For full details regarding course objectives, recommended textbooks, homework, a
 | 25 | 15 | Final project presentation |
 | 26 | | Final project presentation |
 
-## Acknowledgement
+## Acknowledgment
 
 This course significantly benefits from the open-source AI/ML materials shared by the community. We also thank all guest lecturers for this course from academia and industry:
 *   Prof. Jiayu Peng (MDI, UB, Fall 2025)
