@@ -12,7 +12,7 @@ Some highlights of this course:
 - Covers a comprehensive spectrum of AI/ML concepts: AI-assisted programming, predictive modeling (e.g., regression and classification), prescriptive algorithms (e.g., genetic algorithm), and generative AI (e.g., transformer), emphasizing breadth over depth. 
 - Narrative lectures on AI/ML algorithms are accompanied by highly interactive hands-on demonstrations in the context of chemical science and engineering. 
 - Seamlessly integrated latest foundational generative AI technologies, such as large language models (LLMs; e.g., Gemini), throughout the course to assist students with learning tasks. 
-- Features guest lectures from leading scientists and engineers in both academia and industry (see [past guest speakers](#acknowledgement)). 
+- Features guest lectures from leading scientists and engineers in both academia and industry (see [past guest speakers](#acknowledgment)). 
 - Touches on topics like AI ethics, safety, and limitations in academic and industrial settings. 
 
 Repo structure:
